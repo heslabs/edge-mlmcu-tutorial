@@ -1,4 +1,4 @@
-# EdgeML MCU Platform
+# Edge ML MCU Platform
 
 Agenda
 
