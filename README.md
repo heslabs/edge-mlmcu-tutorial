@@ -1,4 +1,4 @@
-# Edge ML MCU Platform
+# Edge ML MCU Tutorial
 
 Agenda
 
