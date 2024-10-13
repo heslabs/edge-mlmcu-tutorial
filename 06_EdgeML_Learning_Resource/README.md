@@ -34,11 +34,7 @@
   * https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7?f=1&fbclid=IwAR0X54tBQe_i3DYQgmUaJH725mWhL2qpiAeGNdEALYN4BQ7cXuOOPRMRJYU 
 
 ---
-## NYCU
-* NYCU: Deploy Models on Fixed Virtual Platform (FVP)
-  * https://docs.google.com/presentation/d/11FhRh35LyO7bk1A4upI57aKm2CLcO7nWPMnaw_SPmDQ/mobilepresent?slide=id.g2834fc38adc_0_488
-    
-## NYCU Edge AI workshop - Slides
+### NYCU Edge AI workshop - Slides
 Arm Cortex-M55+Ethos-U55 
 
 1. Creating Memory Efficient Hardware and Software for TinyML Inference
@@ -48,7 +44,8 @@ Arm Cortex-M55+Ethos-U55
 3. Seed Grove Vision AI V2 (WE2) with Himax SDK
   * https://docs.google.com/presentation/d/1xX2CcFrKgkMBP7ib-rgaaCBJPuv4gY6chppq2hIcNNU/mobilepresent?slide=id.g25e1cde8a29_1_33
 
-## NYCU Edge AI workshop - Recorded Video (in Chinese)
+---
+### NYCU Edge AI workshop - Recorded Video (in Chinese)
 
 1. Introduction to TinyML and NPU design
   * https://youtube.com/live/AP7ES0QUF0E?feature=share
