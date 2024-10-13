@@ -15,6 +15,15 @@
 * Arm: Arm ML embedded evaluation kit
   * https://review.mlplatform.org/plugins/gitiles/ml/ethos-u/ml-embedded-evaluation-kit/
 
+---
+## hackster
+* 2024 MCU AI Vision Boards: Performance Comparison (2024.01)
+  * https://www.hackster.io/limengdu0117/2024-mcu-ai-vision-boards-performance-comparison-998505
+
+* Computer Vision at the Edge with Grove Vision AI Module V2 (2024.02)
+  * https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7?f=1&fbclid=IwAR0X54tBQe_i3DYQgmUaJH725mWhL2qpiAeGNdEALYN4BQ7cXuOOPRMRJYU 
+
+
 ## NYCU Edge AI workshop - Slides
 Arm Cortex-M55+Ethos-U55 
 
