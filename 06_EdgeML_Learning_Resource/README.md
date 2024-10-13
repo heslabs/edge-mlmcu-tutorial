@@ -1,19 +1,29 @@
 ## Github
 
-* NYCU: Deploy Models on Fixed Virtual Platform (FVP)
-  * https://docs.google.com/presentation/d/11FhRh35LyO7bk1A4upI57aKm2CLcO7nWPMnaw_SPmDQ/mobilepresent?slide=id.g2834fc38adc_0_488
- 
-* ITRI: YOLOv8_on_WE2
-  * https://github.com/anitawuitri/YOLOv8_on_WE2
- 
+---
+## Arm ML
+
+* Arm: Arm ML embedded evaluation kit
+  * https://review.mlplatform.org/plugins/gitiles/ml/ethos-u/ml-embedded-evaluation-kit/
+
+* Github: CMSIS-Pack based Machine Learning Examples
+  * https://github.com/Arm-Examples/mlek-cmsis-pack-examples/
+
+* Github: ML Helium by christophe0606
+  * https://github.com/christophe0606/MLHelium
+
+
+---
+## Himax
+
 * Himax: Deploy examples on FVP simulation environment
   * https://github.com/HimaxWiseEyePlus/ML_FVP_EVALUATION?tab=readme-ov-file#how-to-use-himax-config-file-to-generate-vela-model
  
 * Himax: Himax examples for Seeed Grove Vision AI Module V2
   * https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2
- 
-* Arm: Arm ML embedded evaluation kit
-  * https://review.mlplatform.org/plugins/gitiles/ml/ethos-u/ml-embedded-evaluation-kit/
+
+* ITRI: YOLOv8_on_WE2
+  * https://github.com/anitawuitri/YOLOv8_on_WE2
 
 ---
 ## hackster
@@ -23,7 +33,11 @@
 * Computer Vision at the Edge with Grove Vision AI Module V2 (2024.02)
   * https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7?f=1&fbclid=IwAR0X54tBQe_i3DYQgmUaJH725mWhL2qpiAeGNdEALYN4BQ7cXuOOPRMRJYU 
 
-
+---
+## NYCU
+* NYCU: Deploy Models on Fixed Virtual Platform (FVP)
+  * https://docs.google.com/presentation/d/11FhRh35LyO7bk1A4upI57aKm2CLcO7nWPMnaw_SPmDQ/mobilepresent?slide=id.g2834fc38adc_0_488
+    
 ## NYCU Edge AI workshop - Slides
 Arm Cortex-M55+Ethos-U55 
 
