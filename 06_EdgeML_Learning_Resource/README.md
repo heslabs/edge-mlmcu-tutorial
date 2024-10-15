@@ -22,8 +22,11 @@
 * Himax: Himax examples for Seeed Grove Vision AI Module V2
   * https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2
 
-* ITRI: YOLOv8_on_WE2
+* YOLOv8_on_WE2 (ITRI)
   * https://github.com/anitawuitri/YOLOv8_on_WE2
+
+* YOLOv8_on_WE2 (Himax)
+  * https://github.com/HimaxWiseEyePlus/YOLOv8_on_WE2
 
 ---
 ## hackster
