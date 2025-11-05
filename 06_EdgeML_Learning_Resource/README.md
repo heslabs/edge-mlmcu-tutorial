@@ -5,10 +5,8 @@
 
 * Arm: Arm ML embedded evaluation kit
   * https://review.mlplatform.org/plugins/gitiles/ml/ethos-u/ml-embedded-evaluation-kit/
-
 * Github: CMSIS-Pack based Machine Learning Examples
   * https://github.com/Arm-Examples/mlek-cmsis-pack-examples/
-
 * Github: ML Helium by christophe0606
   * https://github.com/christophe0606/MLHelium
 
@@ -18,13 +16,10 @@
 
 * Himax: Deploy examples on FVP simulation environment
   * https://github.com/HimaxWiseEyePlus/ML_FVP_EVALUATION?tab=readme-ov-file#how-to-use-himax-config-file-to-generate-vela-model
- 
 * Himax: Himax examples for Seeed Grove Vision AI Module V2
   * https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2
-
 * YOLOv8_on_WE2 (ITRI)
   * https://github.com/anitawuitri/YOLOv8_on_WE2
-
 * YOLOv8_on_WE2 (Himax)
   * https://github.com/HimaxWiseEyePlus/YOLOv8_on_WE2
 
@@ -32,7 +27,6 @@
 ## hackster
 * 2024 MCU AI Vision Boards: Performance Comparison (2024.01)
   * https://www.hackster.io/limengdu0117/2024-mcu-ai-vision-boards-performance-comparison-998505
-
 * Computer Vision at the Edge with Grove Vision AI Module V2 (2024.02)
   * https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7?f=1&fbclid=IwAR0X54tBQe_i3DYQgmUaJH725mWhL2qpiAeGNdEALYN4BQ7cXuOOPRMRJYU 
 
