@@ -3,10 +3,30 @@
 ---
 ## Arm ML
 
-* Arm: Arm ML embedded evaluation kit
-  * https://review.mlplatform.org/plugins/gitiles/ml/ethos-u/ml-embedded-evaluation-kit/
+Arm Github
+
 * Github: CMSIS-Pack based Machine Learning Examples
   * https://github.com/Arm-Examples/mlek-cmsis-pack-examples/
+* Arm Model Zoo - A collection of machine learning models optimized for Arm IP
+  * https://github.com/Arm-Examples/ML-zoo
+* Arm: Arm ML embedded evaluation kit
+  * https://review.mlplatform.org/plugins/gitiles/ml/ethos-u/ml-embedded-evaluation-kit/
+    
+Himax: WiseEye2 AI Processor
+* Himax examples for Seeed Grove Vision AI Module V2
+  * https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2
+* Seeed Grove Vision AI Module V2
+  * https://wiki.seeedstudio.com/grove_vision_ai_v2/
+  
+Nuvoton: NuMaker-X-M55M1D
+* NuMaker-X-M55M1 is a development platform built on the NuMicro® M55M1 series microcontroller.
+  * https://www.techdesign.com/market/nuvoton/product-detail/ntc000866/numaker-x-m55m1d
+* ML_M55M1_SampleCode
+  * https://github.com/OpenNuvoton/ML_M55M1_SampleCode
+
+
+
+---     
 * Github: ML Helium by christophe0606
   * https://github.com/christophe0606/MLHelium
 
