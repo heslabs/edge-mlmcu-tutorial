@@ -26,6 +26,8 @@ Nuvoton: NuMaker-X-M55M1D
 
 
 
+Some GitHub resource and newly released development boards equipped with Cortex-M55 and Ethos-U are also listed below for your reference. We hope this information will be useful for your plannin
+
 ---     
 * Github: ML Helium by christophe0606
   * https://github.com/christophe0606/MLHelium
