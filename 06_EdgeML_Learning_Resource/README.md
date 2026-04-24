@@ -87,8 +87,13 @@ Nuvoton: NuMaker-X-M55M1D
 ---
 ## Hiwonder MentorPi
 
-* Hiwonder MentorPi A1 Raspberry Pi 5 Robot Car, Ackerman Chassis 2DOF Monocular Camera ROS2-HUMBLE Support SLAM and Autonomous Driving 
+* Hiwonder MentorPi A1 Raspberry Pi 5 Robot Car, Ackerman Chassis 2DOF Monocular Camera ROS2-HUMBLE Support SLAM and Autonomous Driving (**USD 299**)
   * https://www.hiwonder.com/products/mentorpi-a1-monocular-camera-version?variant=41370001244247
+
+
+<img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/10199155-da61-4068-ab1c-97811c80f4ce" />
+ 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a0105edf-2cc7-4a97-93ab-9d8cfe5bd51c" />
 
 
 ---
