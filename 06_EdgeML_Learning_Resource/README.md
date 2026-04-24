@@ -104,7 +104,7 @@ Arm Cortex-M55+Ethos-U55
   * https://docs.google.com/presentation/d/1xX2CcFrKgkMBP7ib-rgaaCBJPuv4gY6chppq2hIcNNU/mobilepresent?slide=id.g25e1cde8a29_1_33
 
 ---
-### NYCU Edge AI workshop - Recorded Video (in Chinese)
+## NYCU Edge AI workshop - Recorded Video (in Chinese)
 
 * Introduction to TinyML and NPU design
   * https://youtube.com/live/AP7ES0QUF0E?feature=share
