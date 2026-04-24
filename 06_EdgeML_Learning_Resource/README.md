@@ -62,7 +62,7 @@ Nuvoton: NuMaker-X-M55M1D
 
 <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/80e7ac57-6004-47a0-a43d-f71efe3aa4ee" />
 
-<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/8cc47a70-4e19-48d7-be0d-50a624895407" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/8cc47a70-4e19-48d7-be0d-50a624895407" />
 
 ---
 ## ALIF
