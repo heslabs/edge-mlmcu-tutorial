@@ -35,10 +35,10 @@ Himax: WiseEye2 AI Processor
 ---
 ## SeeedStudio
 
-* Seeed Grove Vision AI Module V2
+* Seeed Grove Vision AI Module V2 (**USD16**)
   * https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html
   * https://wiki.seeedstudio.com/grove_vision_ai_v2/
-* XIAO Vision AI Camera
+* XIAO Vision AI Camera (**USD 25**)
   * https://www.seeedstudio.com/XIAO-Vision-AI-Camera-p-6450.html
   * This XIAO gadget is a smart vision solution that seamlessly combines the Grove Vision AI V2 module, XIAO ESP32-C3 controller, and an OV5647 camera, all housed in a custom 3D-printed enclosure.
 
@@ -53,9 +53,9 @@ Himax: WiseEye2 AI Processor
 ## Nuvoton NuMaker
 
 Nuvoton: NuMaker-X-M55M1D
-* NuMaker-X-M55M1 (USD 170)
+* NuMaker-X-M55M1 (**USD 170**)
   * https://www.techdesign.com/market/nuvoton/product-detail/ntc000866/numaker-x-m55m1d
-* NuMaker-GestureAI-M55M1 (USD 24)
+* NuMaker-GestureAI-M55M1 (**USD 24**)
   * https://www.techdesign.com/market/nuvoton/product-detail/ntc000906/numaker-gestureai-m55m1
 * ML_M55M1_SampleCode
   * https://github.com/OpenNuvoton/ML_M55M1_SampleCode
@@ -71,7 +71,7 @@ Nuvoton: NuMaker-X-M55M1D
   * https://github.com/alifsemi/alif_ml-embedded-evaluation-kit/blob/main/ML_Embedded_Evaluation_Kit.md
 * Zenoh ROSCon(s) 2025 Workshop
   * https://github.com/ZettaScaleLabs/roscon2025_workshop/blob/main/README.md
-* OpenMV AE3 (USD 90)
+* OpenMV AE3 (**USD 90**)
   * https://openmv.io/products/openmv-ae3?gad_source=1&gad_campaignid=23516406659&gclid=Cj0KCQjw-pHPBhCdARIsAHXYWP-odped0AqMovGTULuCB-g8TbIiwFymaMHtuvZ0E8Imn1mYWf1_Q0MaAltsEALw_wcB
 
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a029ba20-ac02-4cae-a036-d64d488e95af" /> 
