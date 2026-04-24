@@ -35,7 +35,7 @@ Himax: WiseEye2 AI Processor
 ---
 ## SeeedStudio
 
-* Seeed Grove Vision AI Module V2 (**USD16**)
+* Seeed Grove Vision AI Module V2 (**USD 16**)
   * https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html
   * https://wiki.seeedstudio.com/grove_vision_ai_v2/
 * XIAO Vision AI Camera (**USD 25**)
