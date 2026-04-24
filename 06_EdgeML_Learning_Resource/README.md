@@ -95,6 +95,8 @@ Nuvoton: NuMaker-X-M55M1D
  
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a0105edf-2cc7-4a97-93ab-9d8cfe5bd51c" />
 
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/a9810816-283f-4118-a429-0830d4dea1c2" />
+
 
 ---
 ## NYCU Edge AI workshop - Slides
