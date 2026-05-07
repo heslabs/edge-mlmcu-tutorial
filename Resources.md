@@ -93,7 +93,6 @@ Nuvoton: NuMaker-X-M55M1D
  
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a0105edf-2cc7-4a97-93ab-9d8cfe5bd51c" />
 
- 
 <img width="1599" height="1065" alt="image" src="https://github.com/user-attachments/assets/de226021-d291-4841-a139-35f197a08f39" />
 
 
