@@ -83,8 +83,12 @@ Nuvoton: NuMaker-X-M55M1D
   * https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7?f=1&fbclid=IwAR0X54tBQe_i3DYQgmUaJH725mWhL2qpiAeGNdEALYN4BQ7cXuOOPRMRJYU 
 
 ---
-## Hiwonder MentorPi
+## Raspberry Pi
 
+* Raspberry Pi AI HAT+ 2: Generative AI on Raspberry Pi 5
+  * https://www.raspberrypi.com/news/introducing-the-raspberry-pi-ai-hat-plus-2-generative-ai-on-raspberry-pi-5/
+* Hailo-10 AI Accelerators - Support Generative AI and runs LLMs, VLMs locally, Up to 40 TOPS AI performance
+  * https://hailo.ai/resources/industries/personal-compute/hailo-10-ai-accelerators-for-the-generative-ai-era/
 * Hiwonder MentorPi A1 Raspberry Pi 5 Robot Car, Ackerman Chassis 2DOF Monocular Camera ROS2-HUMBLE Support SLAM and Autonomous Driving (**USD 299**)
   * https://www.hiwonder.com/products/mentorpi-a1-monocular-camera-version?variant=41370001244247
 
