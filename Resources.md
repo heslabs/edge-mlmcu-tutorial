@@ -99,6 +99,13 @@ Nuvoton: NuMaker-X-M55M1D
 
 <img width="1599" height="1065" alt="image" src="https://github.com/user-attachments/assets/de226021-d291-4841-a139-35f197a08f39" />
 
+
+---
+
+* Radxa Dragon Q6A
+  * https://radxa.com/products/dragon/q6a/
+
+
 ---
 ### Arm Neoverse
 * NVIDIA Jetson Thor (NoeverseV3AE+2070 TFLOPS Blackwell GPU) | Advanced AI for Physical Robotics (USD 6000)
