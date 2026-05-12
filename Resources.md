@@ -99,6 +99,12 @@ Nuvoton: NuMaker-X-M55M1D
 
 <img width="1599" height="1065" alt="image" src="https://github.com/user-attachments/assets/de226021-d291-4841-a139-35f197a08f39" />
 
+---
+### Arm Neoverse
+* NVIDIA Jetson Thor (NoeverseV3AE+2070 TFLOPS Blackwell GPU) | Advanced AI for Physical Robotics (USD 6000)
+  * https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/
+* NVIDIA DGX Spark (Cortex-X925 + 1PF FP4 Blackwell GPU): AI Supercomputer on Your Desk (USD 3999)
+  * https://www.nvidia.com/en-us/products/workstations/dgx-spark/
 
 ---
 ## NYCU Edge AI workshop - Slides
