@@ -53,6 +53,8 @@ Himax: WiseEye2 AI Processor
 Nuvoton: NuMaker-X-M55M1D
 * NuMaker-X-M55M1 (**USD 170**)
   * https://www.techdesign.com/market/nuvoton/product-detail/ntc000866/numaker-x-m55m1d
+* Nuvoton NuMaker-X-M55M1 Tutorial
+  * https://www.nuvoton.com/export/resource-files/zh-tw--M55M1_eBook_EN.pdf
 * NuMaker-GestureAI-M55M1 (**USD 24**)
   * https://www.techdesign.com/market/nuvoton/product-detail/ntc000906/numaker-gestureai-m55m1
 * ML_M55M1_SampleCode
@@ -91,7 +93,9 @@ Nuvoton: NuMaker-X-M55M1D
   * https://hailo.ai/resources/industries/personal-compute/hailo-10-ai-accelerators-for-the-generative-ai-era/
 * Hiwonder MentorPi A1 Raspberry Pi 5 Robot Car, Ackerman Chassis 2DOF Monocular Camera ROS2-HUMBLE Support SLAM and Autonomous Driving (**USD 299**)
   * https://www.hiwonder.com/products/mentorpi-a1-monocular-camera-version?variant=41370001244247
-
+* MentorPi Raspberry Pi 5 Robot Car Tutorial
+  * https://docs.hiwonder.com/projects/MentorPi/en/latest
+  * https://drive.google.com/drive/folders/1o5HrE817NhEbfVOPzkjhhK_bkWONApnl
 
 <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/10199155-da61-4068-ab1c-97811c80f4ce" />
  
