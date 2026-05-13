@@ -1,1 +1,124 @@
+## Edge AI Development Platform
+
+---
+## Arm ML
+
+Arm Github
+
+* Github: CMSIS-Pack based Machine Learning Examples
+  * https://github.com/Arm-Examples/mlek-cmsis-pack-examples/
+* Arm Model Zoo - A collection of machine learning models optimized for Arm IP
+  * https://github.com/Arm-Examples/ML-zoo
+* Arm: Arm ML embedded evaluation kit
+  * https://review.mlplatform.org/plugins/gitiles/ml/ethos-u/ml-embedded-evaluation-kit/
+* Github: ML Helium by christophe0606
+  * https://github.com/christophe0606/MLHelium
+    
+---
+## Himax WiseEye2
+
+Himax: WiseEye2 AI Processor
+
+* Himax examples for Seeed Grove Vision AI Module V2
+  * https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2
+* Himax: Deploy examples on FVP simulation environment
+  * https://github.com/HimaxWiseEyePlus/ML_FVP_EVALUATION?tab=readme-ov-file#how-to-use-himax-config-file-to-generate-vela-model
+* Himax: Himax examples for Seeed Grove Vision AI Module V2
+  * https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2
+* YOLOv8_on_WE2 (ITRI)
+  * https://github.com/anitawuitri/YOLOv8_on_WE2
+* YOLOv8_on_WE2 (Himax)
+  * https://github.com/HimaxWiseEyePlus/YOLOv8_on_WE2
+
+---
+## SeeedStudio
+
+* Seeed Grove Vision AI Module V2 (**USD 16**)
+  * https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html
+  * https://wiki.seeedstudio.com/grove_vision_ai_v2/
+* XIAO Vision AI Camera (**USD 25**)
+  * https://www.seeedstudio.com/XIAO-Vision-AI-Camera-p-6450.html
+  * This XIAO gadget is a smart vision solution that seamlessly combines the Grove Vision AI V2 module, XIAO ESP32-C3 controller, and an OV5647 camera, all housed in a custom 3D-printed enclosure.
+
+ ---
+ <img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/10c7d1a7-49fe-45b4-8adc-b5c848703833" />
+
+
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/782421ea-e69a-4914-a8e7-1f0093e15610" />
+
+    
+---
+## Nuvoton NuMaker
+
+Nuvoton: NuMaker-X-M55M1D
+* NuMaker-X-M55M1 (**USD 170**)
+  * https://www.techdesign.com/market/nuvoton/product-detail/ntc000866/numaker-x-m55m1d
+* Nuvoton NuMaker-X-M55M1 Tutorial
+  * https://www.nuvoton.com/export/resource-files/zh-tw--M55M1_eBook_EN.pdf
+* NuMaker-GestureAI-M55M1 (**USD 24**)
+  * https://www.techdesign.com/market/nuvoton/product-detail/ntc000906/numaker-gestureai-m55m1
+* ML_M55M1_SampleCode
+  * https://github.com/OpenNuvoton/ML_M55M1_SampleCode
+
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/80e7ac57-6004-47a0-a43d-f71efe3aa4ee" />
+
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/8cc47a70-4e19-48d7-be0d-50a624895407" />
+
+---
+## ALIF
+
+* ML Embedded Evaluation Kit User Guide
+  * https://github.com/alifsemi/alif_ml-embedded-evaluation-kit/blob/main/ML_Embedded_Evaluation_Kit.md
+* Zenoh ROSCon(s) 2025 Workshop
+  * https://github.com/ZettaScaleLabs/roscon2025_workshop/blob/main/README.md
+* OpenMV AE3 (**USD 90**)
+  * https://openmv.io/products/openmv-ae3?gad_source=1&gad_campaignid=23516406659&gclid=Cj0KCQjw-pHPBhCdARIsAHXYWP-odped0AqMovGTULuCB-g8TbIiwFymaMHtuvZ0E8Imn1mYWf1_Q0MaAltsEALw_wcB
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a029ba20-ac02-4cae-a036-d64d488e95af" /> 
+
+
+---
+## Hackster
+* 2024 MCU AI Vision Boards: Performance Comparison (2024.01)
+  * https://www.hackster.io/limengdu0117/2024-mcu-ai-vision-boards-performance-comparison-998505
+* Computer Vision at the Edge with Grove Vision AI Module V2 (2024.02)
+  * https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7?f=1&fbclid=IwAR0X54tBQe_i3DYQgmUaJH725mWhL2qpiAeGNdEALYN4BQ7cXuOOPRMRJYU 
+
+---
+## Raspberry Pi
+
+* Raspberry Pi AI HAT+ 2: Generative AI on Raspberry Pi 5
+  * https://www.raspberrypi.com/news/introducing-the-raspberry-pi-ai-hat-plus-2-generative-ai-on-raspberry-pi-5/
+* Hailo-10 AI Accelerators - Support Generative AI and runs LLMs, VLMs locally, Up to 40 TOPS AI performance
+  * https://hailo.ai/resources/industries/personal-compute/hailo-10-ai-accelerators-for-the-generative-ai-era/
+* Hiwonder MentorPi A1 Raspberry Pi 5 Robot Car, Ackerman Chassis 2DOF Monocular Camera ROS2-HUMBLE Support SLAM and Autonomous Driving (**USD 299**)
+  * https://www.hiwonder.com/products/mentorpi-a1-monocular-camera-version?variant=41370001244247
+* MentorPi Raspberry Pi 5 Robot Car Tutorial
+  * https://docs.hiwonder.com/projects/MentorPi/en/latest
+  * https://drive.google.com/drive/folders/1o5HrE817NhEbfVOPzkjhhK_bkWONApnl
+
+<img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/10199155-da61-4068-ab1c-97811c80f4ce" />
+ 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a0105edf-2cc7-4a97-93ab-9d8cfe5bd51c" />
+
+<img width="1599" height="1065" alt="image" src="https://github.com/user-attachments/assets/de226021-d291-4841-a139-35f197a08f39" />
+
+
+---
+### Qualcomm Dragonwing
+ 
+* Qualcomm Dragonwing™ QCS6490 (Kryo CPU, 12TOPS NPU)
+  * https://www.qualcomm.com/internet-of-things/products/q6-series/qcs6490
+* Qualcomm RB3 Gen 2 Development Kits
+  * https://www.qualcomm.com/developer/hardware/rb3-gen-2-development-kit
+* Qualcomm Dragonwing QCS649 - Radxa Dragon Q6A (USD 100)
+  * https://radxa.com/products/dragon/q6a/
+ 
+
+---
+### Arm Neoverse
+* NVIDIA Jetson Thor (NoeverseV3AE+2070 TFLOPS Blackwell GPU) | Advanced AI for Physical Robotics (USD 6000)
+  * https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/
+* NVIDIA DGX Spark (Cortex-X925 + 1PF FP4 Blackwell GPU): AI Supercomputer on Your Desk (USD 3999)
+  * https://www.nvidia.com/en-us/products/workstations/dgx-spark/
 
